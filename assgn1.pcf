@@ -1,0 +1,24 @@
+set_io clk R9
+set_io flag C9
+
+set_io a A5
+set_io b A2
+set_io c C3
+set_io d B4
+set_io e B7
+set_io f B6
+set_io g B3
+
+
+set_io W D6
+set_io X C6
+set_io Y C7
+set_io Z D7
+set_io N A10
+set_io A D8
+set_io B B8
+set_io C B9
+set_io D A9
+
+
+
